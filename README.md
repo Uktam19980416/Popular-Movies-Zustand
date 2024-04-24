@@ -1,5 +1,8 @@
 # React + Vite + (React Query, Zustand) + Ant Design
 
+The demo of the following dashboard can be viewed through this link
+  - [Demo Link](https://p-movies.netlify.app/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
